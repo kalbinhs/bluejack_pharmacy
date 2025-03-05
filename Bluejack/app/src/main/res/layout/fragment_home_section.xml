@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#222831"
+    tools:context=".HomeSection">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/ivLogoMedicine"
+            android:layout_marginBottom="15dp"
+            android:layout_width="100sp"
+            android:layout_height="100sp"
+            android:src="@drawable/logo" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rvMedicine"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            />
+    </LinearLayout>
+</FrameLayout>

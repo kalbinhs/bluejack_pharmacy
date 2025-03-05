@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="login_title">Welcome!</string>
+    <string name="register_title">Register your account!</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="betadine">It contains the active ingredient povidone-iodine (PVP-I), to help prevent infection in minor cuts, scrapes, and burns</string>
+    <string name="cdr">Suplementasi Kalsium, Vitamin C, D, B6 rasa jeruk yang membantu memenuhi kebutuhan kalsium pada orang dewasa, ibu hamil dan menyusui.</string>
+    <string name="lohankuo">Minuman herbal tradisional cina dapat digunakan untuk membantu meredakan panas dalam yang disertai batuk</string>
+    <string name="panadol">Obat dengan kandungan Paracetamol yang dapat digunakan untuk meringankan rasa sakit pada sakit kepala, sakit gigi, sakit pada otot dan menurunkan demam.</string>
+    <string name="tolakangin">Obat herbal ini dapat bermanfaat untuk meredakan masuk angin, badan terasa dingin, perut mual dan tenggorokan kering.</string>
+    <string name="imboost">suplemen dengan kandungan Echinacea purpurea herb dry extract dan Zn Piccolinate dalam bentuk tablet salut selaput. Suplemen ini digunakan untuk membantu memelihara daya tahan tubuh.</string>
+    <string name="aboutDescription">Bluejack Pharmacy is a modern and innovative pharmacy that offers a wide range of prescription medications, over-the-counter drugs, and healthcare products. Conveniently located and open seven days a week, Bluejack Pharmacy is committed to improving the health and well-being of the local community.</string>
+</resources>
